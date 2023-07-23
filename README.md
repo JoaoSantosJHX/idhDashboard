@@ -1,4 +1,4 @@
-# idhDashboard
+# IdhDashboard
 **Dashbord criado em Python mostrando histórico do IDH brasileiro**
 
 ## Tecnologias usadas:
